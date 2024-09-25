@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chamuditha Wijesundara</h1>
+<h1 align="center">Hi 👋, I'm CHAMUDITHA</h1>
 <h3 align="center">IT Undergrad</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chamudithalive&label=Profile%20views&color=0e75b6&style=flat" alt="chamudithalive" /> </p>
